@@ -19,10 +19,10 @@ A Forge mod that turns campfires into the heart of a village. Place a **town cam
 
 ## Features
 
-- **Coloured town campfires** — blue, green, red, white, and yellow variants.
-- **Found a town** — a town campfire defines and names a village.
-- **Villager tracking** — the mod knows which villagers belong to each town.
-- **Server-saved** — village data persists with the world.
+- **Coloured town campfires** - blue, green, red, white, and yellow variants.
+- **Found a town** - a town campfire defines and names a village.
+- **Villager tracking** - the mod knows which villagers belong to each town.
+- **Server-saved** - village data persists with the world.
 
 ## Requirements
 
